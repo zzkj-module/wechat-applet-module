@@ -1,0 +1,13 @@
+{
+    "name": "WechatApplet",
+    "alias": "wechatapplet",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WechatApplet\\Providers\\WechatAppletServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
